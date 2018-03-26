@@ -1,0 +1,2 @@
+# seon.js
+seon
